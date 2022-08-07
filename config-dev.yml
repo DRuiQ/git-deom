@@ -1,16 +1,4 @@
-hello,3333 hhhhhhhh
-hello
-hello
-hello
-hello
-hello
-aaaaaaaaaaaa
-aaaaaaaaaaaa
-aaaaaaaaaaaa
-aaaaaaaaaaaa
-aaaaaaaaaaaa
-aaaaaaaaaaaa
-aaaaaaaaaaaa
-111111111111111111111
-qqqqqqqqqqqqq
-bbbbbbbbbbbbb
+config:
+  info: " hello,3333 hhhhhhhh"
+ 
+
